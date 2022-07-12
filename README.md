@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/nandiniagrawal2003/nandiniagrawal2003/blob/main/4504285f9f12ea09bed8366f05a399d4.gif)]
 <h1 align="center">Hi 👋, I'm Nandini</h1>
 <h3 align="center">A passionate AR/VR developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/2541132.jpg">
