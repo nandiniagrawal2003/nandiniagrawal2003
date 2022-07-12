@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Fitness App**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **AR/VR,C++**
 
-- 💬 Ask me about **Unity and blender**
+- 💬 Ask me about **Unity,blender,C#,ARcore**
 
 - 📫 How to reach me **nandiniagrawal2710@gmail.com**
 
-- ⚡ Fun fact **I am crazy**
+- ⚡ Fun fact **I am shy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
