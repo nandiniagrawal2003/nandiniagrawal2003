@@ -1,21 +1,21 @@
 [![MasterHead](https://github.com/nandiniagrawal2003/nandiniagrawal2003/blob/main/metaverse.gif)]
 <h1 align="center">Hi 👋, I'm Nandini</h1>
-<h3 align="center">A passionate AR/VR developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/2541132.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandiniagrawal2003&label=Profile%20views&color=0e75b6&style=flat" alt="nandiniagrawal2003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nandini__2710" target="blank"><img src="https://img.shields.io/twitter/follow/nandini__2710?logo=twitter&style=for-the-badge" alt="nandini__2710" /></a> </p>
 
-- 🔭 I’m currently working on **Fitness App**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **AR/VR,C++**
+- 🌱 I’m currently learning **C++, DSA**
 
-- 💬 Ask me about **Unity,blender,C#,ARcore**
+- 💬 Ask me about **MERN, SQL, C++**
 
 - 📫 How to reach me **nandiniagrawal2710@gmail.com**
 
-- ⚡ Fun fact **I am shy**
+- ⚡ Fun fact **I can design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
